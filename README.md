@@ -1,6 +1,6 @@
 # Controllo Domotico Wireless con ESP-NOW
 
-Questo repository contiene la documentazione e il codice sorgente del mio progetto per la materia di Sistemi e Reti / Automazione. Ho realizzato un sistema per il controllo remoto di carichi fisici (simulati tramite 3 LED) utilizzando due microcontrollori della famiglia ESP32.
+Ho realizzato un sistema per il controllo remoto di carichi fisici (simulati tramite 3 LED) utilizzando due microcontrollori della famiglia ESP32.
 
 La caratteristica principale del progetto è l'utilizzo del protocollo ESP-NOW. Questo permette alle due schede di comunicare in modo diretto (Peer-to-Peer) senza appoggiarsi al router Wi-Fi locale. I vantaggi sono un'estrema velocità di risposta ai comandi e la totale indipendenza dall'infrastruttura di rete dell'edificio.
 
